@@ -1,0 +1,5 @@
+1. New Project -> Project Name -> visibility PUBLIC
+2. Add license -> apply license template -> MIT License -> Commit Changes
+3. Upload File (harus ada index.html)
+4. ADd -> New file -> .gitlab-ci.yml -> apply gitlab CI Yaml template -> 'html' -> commit Changes
+5. CI/CD -> pipelines

@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+div.rightNavbar {
+    padding-left: 10rem;
+    margin-left: 10rem;
+}
+img.carouselImages {
+    width: 100%;
+    height: auto;
+}
+
+img.logo {
+    height: 50px;
+    margin-left: 100px;
+}
+
+div.container {
+    padding: 0.2em;
+}
+
+
+div.methodRow {
+    height: 15rem;
+    
+    background-color: blueviolet;
+}
+
+img.activitiesImages {
+    height: auto;
+    width: 725px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+div.activitiesRow {
+    vertical-align: middle;
+    text-align: justify;
+}
+
+.footer   {
+    background-color: #B3E5FC;
+    height: 7rem;
+    text-align: center;
+    padding-top: 1rem;
+    margin-top: 10px;
+    display: block;
+}
